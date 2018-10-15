@@ -1,0 +1,7 @@
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/bin/Debug/5-CaracteresETextos.exe
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/bin/Debug/5-CaracteresETextos.pdb
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/obj/Debug/5-CaracteresETextos.csprojAssemblyReference.cache
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/obj/Debug/5-CaracteresETextos.csproj.CoreCompileInputs.cache
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/obj/Debug/5-CaracteresETextos.exe
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/obj/Debug/5-CaracteresETextos.pdb
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/5-CaracteresETextos/bin/Debug/5-CaracteresETextos.exe.config
