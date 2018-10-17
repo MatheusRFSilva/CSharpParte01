@@ -3,3 +3,4 @@
 /Users/matheus/Documents/projetosP/cSharp/CSharpParte01/6-AtribuicoesDeVariaveis/obj/Debug/6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
 /Users/matheus/Documents/projetosP/cSharp/CSharpParte01/6-AtribuicoesDeVariaveis/obj/Debug/6-AtribuicoesDeVariaveis.exe
 /Users/matheus/Documents/projetosP/cSharp/CSharpParte01/6-AtribuicoesDeVariaveis/obj/Debug/6-AtribuicoesDeVariaveis.pdb
+/Users/matheus/Documents/projetosP/cSharp/CSharpParte01/6-AtribuicoesDeVariaveis/obj/Debug/6-AtribuicoesDeVariaveis.csprojAssemblyReference.cache

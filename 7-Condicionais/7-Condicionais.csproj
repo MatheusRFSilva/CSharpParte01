@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C51D95B4-0CCA-4B4C-8891-F966935DE831}</ProjectGuid>
+    <ProjectGuid>{C1688630-9096-4695-884B-2F93B22C4BB6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AtribuicoesDeVariaveis</RootNamespace>
-    <AssemblyName>6-AtribuicoesDeVariaveis</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <RootNamespace>Condicionais</RootNamespace>
+    <AssemblyName>7-Condicionais</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,10 +25,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ExternalConsole>true</ExternalConsole>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
-    <StartAction>Project</StartAction>
-    <ExternalConsole>false</ExternalConsole>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
